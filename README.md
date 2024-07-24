@@ -41,8 +41,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cyber Security Professional Certificate"> 
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-black?&style=for-the-badge&logo=Amazon.com%20Web%20Services&logoColor=white" alt="AWS Cloud Practitioner">
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cyber Security Professional Certificate"> 
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon.com%20Web%20Services&logoColor=white" alt="AWS Cloud Practitioner">
 </div>
 
 ## Projects
