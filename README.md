@@ -1,8 +1,7 @@
 # Hello, I'm Sayon
 <a href="[https://linkedin.com](https://www.linkedin.com/in/sayon-palit-441270137/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity post graduate student looking for job opportunities in security engineering, threat intelligence and malware analysis.
-I love all things security and am currently doing vulnerability research on LLM Security solutions.
+I am a cybersecurity post graduate student focused on security engineering, threat intelligence and malware analysis as well as the applications of deep learning to the field of cybersecurity.I love all things security and am currently doing vulnerability research on LLM Security solutions.
 
 ## Objective
 
