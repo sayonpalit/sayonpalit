@@ -9,13 +9,12 @@ I love all things security and am currently doing vulnerability research on LLM 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join in Security Roles.
 
 ## Skills
-|-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | 
-| Network Traffic Monitoring and Attack Detection |
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  | 
-| Scripting and Automation for Threat Mitigation |
+* SIEM Implementation and Log Analysis
+* Network Traffic Monitoring and Attack Detection
+* Security Automation with Shuffle SOAR
+* Incident Response Planning and Execution
+* Case Management with TheHive
+* Scripting and Automation for Threat Mitigation
 
 ## Tools
 
@@ -42,7 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Google Cyber Security Professional Certificate"> 
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cyber Security Professional Certificate"> 
 <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-black?&style=for-the-badge&logo=Amazon.com%20Web%20Services&logoColor=white" alt="AWS Cloud Practitioner">
 </div>
 
